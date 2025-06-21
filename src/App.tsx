@@ -31,6 +31,7 @@ function App() {
                 <p><span className="font-medium">Zodiac:</span> Aries (మేష రాశి)</p>
                 <p><span className="font-medium">Nakshatram:</span> Ashwini-1 (అశ్విని-1)</p>
                 <p><span className="font-medium">Gothram:</span> Padicharla (పాడిచర్ల )</p>
+                <p><span className="font-medium">Birth Place:</span> Devarakonda, NLG</p>
                 
               </div>
             </section>
