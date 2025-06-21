@@ -27,6 +27,11 @@ function App() {
                 <p><span className="font-medium">Height:</span> 5' 10"</p>
                 <p><span className="font-medium">Weight:</span> 72 kgs</p>
                 <p><span className="font-medium">Blood Group:</span> O+ve</p>
+                <p><span className="font-medium">Day:</span> Wednesday (బుధవారం)</p>
+                <p><span className="font-medium">Zodiac:</span> Aries (మేష రాశి)</p>
+                <p><span className="font-medium">Nakshatram:</span> Ashwini-1 (అశ్విని-1)</p>
+                <p><span className="font-medium">Gothram:</span> Padicharla (పాడిచర్ల )</p>
+                
               </div>
             </section>
 
