@@ -91,7 +91,7 @@ function App() {
               </h2>
               <div className="space-y-2">
                 <p className="whitespace-pre-line">
-                  2-2 Shettipally, Amangal
+                  2-2 Shettipally, Amangal,
                   RR District, Telangana - 509321
                 </p>
               </div>
