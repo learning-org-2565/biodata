@@ -23,7 +23,7 @@ function App() {
                 <User size={20} /> Personal Information
               </h2>
               <div className="space-y-2">
-                <p><span className="font-medium">Date of Birth:</span> October 1st, 1994</p>
+                <p><span className="font-medium">Date of Birth:</span> October 1st, 1994 (6pm)</p>
                 <p><span className="font-medium">Height:</span> 5' 10"</p>
                 <p><span className="font-medium">Weight:</span> 72 kgs</p>
                 <p><span className="font-medium">Blood Group:</span> O+ve</p>
