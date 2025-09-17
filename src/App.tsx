@@ -32,7 +32,6 @@ function App() {
                 <p><span className="font-medium">Nakshatram:</span> Ashwini-1 (అశ్విని-1)</p>
                 <p><span className="font-medium">Gothram:</span> Padicharla (పాడిచర్ల )</p>
                 <p><span className="font-medium">Birth Place:</span> Devarakonda, NLG</p>
-                
               </div>
             </section>
 
@@ -44,6 +43,17 @@ function App() {
               <div className="space-y-2">
                 <p><span className="font-medium">Company:</span> CGI</p>
                 <p><span className="font-medium">Current Package:</span> 14 LPA</p>
+              </div>
+            </section>
+
+            {/* Education Details */}
+            <section className="space-y-4">
+              <h2 className="text-xl font-semibold flex items-center gap-2 text-indigo-700">
+                <GraduationCap size={20} /> Education Details
+              </h2>
+              <div className="space-y-2">
+                <p><span className="font-medium">Bachelor's Degree:</span> B.Com Computers</p>
+                <p><span className="font-medium">University:</span> Osmania University</p>
               </div>
             </section>
 
