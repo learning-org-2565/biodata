@@ -46,7 +46,7 @@ function App() {
               </div>
             </section>
 
-            {/* Education Details - Timeline Style */}
+            {/* Education Details - Timeline Style */ }
             <section className="space-y-4 md:col-span-2">
               <h2 className="text-xl font-semibold flex items-center gap-2 text-indigo-700">
                 <GraduationCap size={20} /> Education Details
