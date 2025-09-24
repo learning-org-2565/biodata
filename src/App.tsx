@@ -46,15 +46,31 @@ function App() {
               </div>
             </section>
 
-            {/* Education Details */}
-            <section className="space-y-4">
+            {/* Education Details - Timeline Style */}
+            <section className="space-y-4 md:col-span-2">
               <h2 className="text-xl font-semibold flex items-center gap-2 text-indigo-700">
                 <GraduationCap size={20} /> Education Details
               </h2>
-              <div className="space-y-2">
-                <p><span className="font-medium">Bachelor's Degree:</span> B.Com Computers</p>
-                <p><span className="font-medium">University:</span> Osmania University</p>
-              </div>
+              <ol className="relative border-l border-indigo-300 space-y-6 pl-4">
+                <li>
+                  <div className="absolute -left-2 w-4 h-4 bg-indigo-600 rounded-full border border-white"></div>
+                  <p className="text-base font-medium text-gray-800">Bachelor of Commerce (Computers)</p>
+                  <p className="text-sm text-gray-600">Sri Sai Degree & P.G. College, Osmania University</p>
+                  <p className="text-xs text-gray-500">2012 – 2015</p>
+                </li>
+                <li>
+                  <div className="absolute -left-2 w-4 h-4 bg-indigo-600 rounded-full border border-white"></div>
+                  <p className="text-base font-medium text-gray-800">Intermediate (MEC)</p>
+                  <p className="text-sm text-gray-600">Sri Chaitanya Junior College</p>
+                  <p className="text-xs text-gray-500">2010 – 2012</p>
+                </li>
+                <li>
+                  <div className="absolute -left-2 w-4 h-4 bg-indigo-600 rounded-full border border-white"></div>
+                  <p className="text-base font-medium text-gray-800">SSC (10th Class)</p>
+                  <p className="text-sm text-gray-600">Z.P.H.S, Devarakonda</p>
+                  <p className="text-xs text-gray-500">2010</p>
+                </li>
+              </ol>
             </section>
 
             {/* Career Ambition */}
