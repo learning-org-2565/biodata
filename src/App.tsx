@@ -46,19 +46,16 @@ function App() {
               </div>
             </section>
 
-            {/* Education Details - Only Bachelor's */}
+            {/* Education Details - Simple */}
             <section className="space-y-4 md:col-span-2">
               <h2 className="text-xl font-semibold flex items-center gap-2 text-indigo-700">
                 <GraduationCap size={20} /> Education Details
               </h2>
-              <ol className="relative border-l border-indigo-300 space-y-6 pl-4">
-                <li>
-                  <div className="absolute -left-2 w-4 h-4 bg-indigo-600 rounded-full border border-white"></div>
-                  <p className="text-base font-medium text-gray-800">Bachelor of Commerce (Computers)</p>
-                  <p className="text-sm text-gray-600">Sri Sai Degree & P.G. College, Osmania University</p>
-                  <p className="text-xs text-gray-500">2012 – 2015</p>
-                </li>
-              </ol>
+              <div className="space-y-2">
+                <p><span className="font-medium">Bachelor of Commerce (Computers):</span></p>
+                <p>Sri Sai Degree & P.G. College</p>
+                <p>Osmania University</p>
+              </div>
             </section>
 
             {/* Career Ambition */}
