@@ -42,7 +42,7 @@ function App() {
               </h2>
               <div className="space-y-2">
                 <p><span className="font-medium">Company:</span> CGI</p>
-                <p><span className="font-medium">Current Package:</span> 14 LPA</p>
+                <p><span className="font-medium">Current Package:</span> 15 LPA</p>
               </div>
             </section>
 
