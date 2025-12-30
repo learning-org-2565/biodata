@@ -67,7 +67,7 @@ function App() {
                 <div className="flex items-center gap-2">
                   <span className="font-medium">Startup:</span>
                   <a 
-                    href="https://gkecloud.com" 
+                    href="https://infrahm.netlify.app/" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="text-blue-600 hover:text-blue-800 underline decoration-2 decoration-blue-400 hover:decoration-blue-600 transition-colors"
