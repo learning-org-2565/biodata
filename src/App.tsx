@@ -72,7 +72,7 @@ function App() {
                     rel="noopener noreferrer" 
                     className="text-blue-600 hover:text-blue-800 underline decoration-2 decoration-blue-400 hover:decoration-blue-600 transition-colors"
                   >
-                    GKEcloud.com
+                    infrahm.netlify.app
                   </a>
                 </div>
                 <p className="text-lg text-gray-700 leading-relaxed">
